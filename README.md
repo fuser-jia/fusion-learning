@@ -15,6 +15,8 @@ This repo concerns the related documentations and errors encountered
 
 ## Python
 ### [Decorators](https://www.geeksforgeeks.org/decorators-in-python/)
+### [Python Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+### [Built-in Exceptions](https://docs.python.org/2/library/exceptions.html)
 ### [Keyring](https://pypi.org/project/keyring/3.5/#configure-your-keyring-lib)
   * [How do I retrieve a username with Python keyring?](https://stackoverflow.com/questions/15235139/how-do-i-retrieve-a-username-with-python-keyring)
 
